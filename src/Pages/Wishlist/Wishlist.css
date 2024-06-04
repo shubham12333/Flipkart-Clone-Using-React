@@ -1,0 +1,10 @@
+.conatiner {
+  display: flex;
+  justify-content: center;
+}
+.wishList {
+  font-size: 30px;
+  font-weight: 550;
+  text-align: center;
+  color: #565959;
+}

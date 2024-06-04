@@ -1,0 +1,101 @@
+.login-form {
+  max-width: 400px;
+}
+.login-form-forgot {
+  float: right;
+}
+.ant-col-rtl .login-form-forgot {
+  float: left;
+}
+.login-form-button {
+  width: 100%;
+}
+.login-form {
+  max-width: 300px;
+}
+.login-form-forgot {
+  float: right;
+}
+.ant-col-rtl .login-form-forgot {
+  float: left;
+}
+.login-form-button {
+  width: 100%;
+}
+.main-body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.ant-modal-body {
+  font-size: 14px;
+  line-height: 1.5715;
+  word-wrap: break-word;
+}
+.modalImage {
+  margin-left: -78px;
+  margin-top: 0px;
+  max-height: 500px;
+}
+.inputPassword {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.Forgot {
+  color: #2874f0;
+  font-weight: 550;
+  font-size: 16px;
+}
+.otp-btn {
+  color: #2874f0;
+  background-color: white;
+  border: none;
+  width: 314px !important;
+    height: 40px;
+  margin-left: 20px;
+  line-height: 180%;
+  box-shadow: 0 1px 2px 0 rgb(0 0 0 / 40%);
+  margin-top: 1px;
+}
+.modalLogin-btn {
+  background: #fb641b;
+  width: 314px !important;
+    height: 40px;
+  margin-left: 20px;
+  box-shadow: 0 1px 2px 0 rgb(0 0 0 / 20%);
+  border: none;
+  color: #fff;
+}
+.modalButtons {
+  display: inline-block;
+  justify-content: center;
+  width: 60%;
+  vertical-align: top;
+}
+.or{
+  text-align: center;
+    color: #766c6c;
+    margin: 15px;
+    margin-left: 143px;
+}
+.NewUser{
+  color: #2874f0;
+    font-weight: 800;
+    font-size: 16px;
+    margin-left: 32px;
+}
+.error{
+  color: red;
+  font-size: 11px;
+  text-align: center;
+}
+.inputBox{
+  margin: 15px;
+}
+.terms{
+ text-align: center;
+ margin-left: 15px;
+ margin-top: 20px;
+ margin-bottom: 20px;
+}

@@ -1,0 +1,13 @@
+.paymentDiv{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 50px;
+    flex-direction: column;
+}
+.googlePay-btn{
+margin-top: 20px;
+}
+.paymentHeading{
+    font-size: 28px;
+}

@@ -1,0 +1,28 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,400;1,300&family=Roboto+Slab:wght@300&display=swap");
+
+.addPrroduct-heading {
+  font-family: "Montserrat", sans-serif;
+  text-align: center;
+}
+.addProduct {
+  display: flex;
+  flex-direction: column;
+  margin: 10px 0px 0px 280px;
+  min-width: 100%;
+}
+.addProduct > span {
+  margin: 5px;
+}
+.addProduct-btn {
+  margin-top: 20px;
+  background-color: #001529;
+  border-color: #001529;
+}
+Input[type="file"]::file-selector-button {
+  cursor: pointer;
+  border: none;
+  font-size: 1.2em;
+  border-color: gray;
+  margin-right: 10px;
+  border-radius: 5px;
+}

@@ -1,0 +1,2 @@
+export const PRODUCT_DETAILS = 'PRODUCT_DETAILS'
+export const FETCH_SUCCESS = 'FETCH_SUCCESS'

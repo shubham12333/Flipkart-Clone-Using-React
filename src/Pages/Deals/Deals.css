@@ -1,0 +1,33 @@
+.deals-body{
+     display:flex;
+  justify-content:space-between;
+    margin: 35px 30px;
+    align-items: center;
+     box-shadow: 0 1px 2px 0 rgb(0 0 0 / 20%);
+     align-items: flex-start;
+}
+.heading{
+   font-size: 22px;
+    line-height: 32px;
+    display: inline-block;
+    font-weight: 550;
+}
+.timerImg{
+    height: 26px;
+    margin-right: 12px;
+    margin-left: 45px;
+    margin-bottom: 5px;
+}
+.viewAll-btn{
+    background-color: #2874f0;
+    color: white;
+    font-weight: 600;
+    box-shadow: 0 2px 4px 0 rgb(0 0 0 / 20%);
+    border: none;
+    margin-right: 0px;
+}
+.deals-body2{
+display: flex;
+align-items: center;
+align-items: flex-start
+}

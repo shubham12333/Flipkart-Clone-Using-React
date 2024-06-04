@@ -1,0 +1,44 @@
+.productlist-container {
+  display: flex;
+}
+.SideMenu {
+  position: fixed;
+}
+.table-container {
+  margin-left: 200px;
+}
+.adminHeader {
+  position: sticky;
+  top: 0;
+  z-index: 999;
+}
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+td {
+  width: 50%;
+  text-align: left;
+  border: 1px solid black;
+}
+ table {
+            border-collapse: collapse;
+            border: 1px solid black;
+        }
+  
+        th,
+        td {
+            border: 1px solid black;
+        }
+  
+        table#table1 {
+            table-layout: auto;
+            width: 200px;
+        }
+  
+        table {
+            table-layout: fixed;
+            width: 200px;
+        }
+  

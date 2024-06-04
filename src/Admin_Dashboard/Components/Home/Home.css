@@ -1,0 +1,74 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@300&display=swap");
+.header-container {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  background-color: #001529;
+}
+.right-nav {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.adminImg {
+  height: 36px;
+  width: 36px;
+  border-radius: 50%;
+  cursor: pointer;
+}
+.nav-icon {
+  margin: 0px 20px 0px 20px;
+  font-size: 24px;
+  font-family: 550;
+  cursor: pointer;
+  color: white;
+}
+.bell-icon {
+  font-size: 24px;
+  font-family: 550;
+  cursor: pointer;
+  color: white;
+}
+.side-menu-btn {
+  border: none;
+  color: white;
+  background-color: #001529;
+}
+.side-menu-btn:hover {
+  background-color: #001529;
+  color: white;
+}
+.side-menu-btn:focus {
+  background-color: #001529;
+  color: white;
+}
+.heading1 {
+  font-family: "Roboto Slab", serif;
+  color: white;
+  font-weight: 600;
+}
+.side-menu-open {
+  width: 200px;
+  height: 100vh;
+  background-color: #001529;
+  
+}
+.side-menu-closed{
+    width: 80px;
+  background-color: #001529;
+  height: 100%;
+}
+.stats{
+    display: flex;
+    justify-content: space-between;
+}
+.middle-container{
+    display: flex;
+}
+.salesImg1{
+    margin: 30px 40px 0px 30px;
+}
+.salesImg2{
+    margin: 30px 40px 0px 30px;
+}

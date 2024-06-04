@@ -1,0 +1,14 @@
+.main{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+.plus1{
+    margin: 60px;
+   box-shadow: 0 1px 2px 0 rgb(0 0 0 / 40%);
+   border-radius: 10px;
+}
+.plus2{
+   box-shadow: 0 1px 2px 0 rgb(0 0 0 / 40%);
+   border-radius: 10px;
+}
